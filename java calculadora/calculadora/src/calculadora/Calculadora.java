@@ -18,6 +18,7 @@ public class Calculadora {
     public static void main(String[] args) {
         // TODO code application logic here
         soma(10,5);
+        soma(5,3);
     }
 
     public static void soma(int x, int y) {
