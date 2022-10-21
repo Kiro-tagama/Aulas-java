@@ -20,7 +20,7 @@ public class TesteAluno {
         aluno.email="1234";
         aluno.curso="computação";
         
-        aluno.alunos[0]={ra:"1234",nome:'123'};
+        //aluno.alunos[0]={ra:"1234",nome:'123'};
         
         aluno.exibirDados();
 
